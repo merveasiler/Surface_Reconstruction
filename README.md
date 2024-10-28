@@ -12,13 +12,7 @@ I have tried many things in this task, and I think I obtained acceptable results
 
 - Hence there remains only one question, what will we choose that multiple (I mean the multiple of cell edge length)? I tried some coefficients, and I obtained the mostly optimized results with "1.7" for most of the inputs.
 
-- You can find my screenshots in the folder, and you can simply build my implementation by typing 
-
-  >>> make 
-  
-  and run by typing
-
-  >>> ./Main
+- You can find my screenshots in the folder, and you can simply build my implementation by typing \<make\> and run by typing \<./Main\>
 
 - It will ask the input file name, and then the coefficient that I mentioned above. In this way, you can also try different thresholds by giving different coefficients other than 1.7.
 
