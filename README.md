@@ -20,3 +20,5 @@ I have tried many things in this task, and I think I obtained acceptable results
 
 
 [1] Hoppe, H., DeRose, T., Duchamp, T., McDonald, J., & Stuetzle, W. (1992, July). Surface reconstruction from unorganized points. In Proceedings of the 19th annual conference on computer graphics and interactive techniques (pp. 71-78).
+
+
