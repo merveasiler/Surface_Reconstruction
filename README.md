@@ -1,6 +1,6 @@
 Implemented the paper "[Surface Reconstruction from Unorganized Points.](https://dl.acm.org/doi/pdf/10.1145/133994.134011)" [1]
 
-I have tried many things in this task, and I think I obtained acceptable results:
+I have tried many things in this task, and I think I obtained acceptable results: 
 
 - I calculated vertex normals by getting the average of neighbor triangle normals. I also tried the weighted average of those normals by taking the inverse of area of the triangle as weight but did not change the accuracy much..
   
